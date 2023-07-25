@@ -11,6 +11,7 @@ title: 首页
   - 一个Favicon(卡巴拉的小图标)来替代您在网址栏见到的零协会Favicon
   - 一个Logo(卡巴拉的图标)来替代您在各处见到的零协会Logo
   - 分别将其上传为```static/img/favicon.ico```和```static/img/logo.png```(记得删除零协会已有的文件)
+- 您还可以设置文档站首页的三栏文本
 
 要编辑文档站，您需要：
 - 拥有一个GitHub账号
