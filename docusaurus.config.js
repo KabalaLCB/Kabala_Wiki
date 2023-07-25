@@ -76,10 +76,15 @@ const config = {
             ],
           },
           {
+            title: 'BiliBili',
             items: [
               {
-                label: '2item',
-                to: '/docs/main',
+                label: '卡巴拉攻略组',
+                to: 'https://space.bilibili.com/480023632',
+              },
+              {
+                label: '卡巴拉边狱前线',
+                to: 'https://space.bilibili.com/3493261473745438',
               },
             ],
           },
