@@ -71,3 +71,15 @@ title: 首页
 想要插入图片，请将您的图片通过GitHub放置在```/img/page```文件夹下，然后通过以上格式引用：
 
 ![image](/img/page/exampleImage.png)
+
+## 完成编辑
+不论您是在GitHub原地编辑，还是使用GitHub.dev或VSCode编辑，编辑完毕后从GitHub进行Commit即可。
+
+Vercel会自动部署您的提交。Vercel每日限量部署100次，但我们应该不会用到这个量。
+
+如果Vercel没有部署您的Commit，您将会在您的Commit后面发现一个叉，如下：
+
+![image](/img/page/deployfail.png)
+
+则您的编辑中有一些东西不合格式或Vercel无法部署。  
+请自行检查语法排错，或寻求帮助。
