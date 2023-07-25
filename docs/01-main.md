@@ -15,13 +15,13 @@ title: 首页
 
 要编辑文档站，您需要：
 - 拥有一个GitHub账号
-- 联系我们将您邀请至协同编辑，您便能获得[文档站](https://github.com/ZengXiaoPi/Kabala_Wiki)的读写权限。  
+- 联系我们将您邀请至协同编辑，您便能获得[文档站的GitHub仓库](https://github.com/ZengXiaoPi/Kabala_Wiki)的读写权限。  
 需要您请向我们列出您希望被邀请的人的GitHub用户名。
 - 使用Markdown语法进行编辑。请参阅[Markdown入门](https://markdown.com.cn/intro.html)。
   - 请记住，Markdown在很多地方的逻辑和Word文档等其他文字编辑器不同。
-- 我将在此处粗略叙述一些Markdown语法的使用方法。请您**至GitHub阅读源代码，同时比对网页上的最终效果**以理解这些语法。
+- 我将在此处粗略叙述一些Markdown语法的使用方法。请您**至GitHub仓库阅读源代码，同时比对网页上的最终效果**以理解这些语法。
 
-## 使用Hashtag(#)做标题。
+## 使用Hashtag(#)写标题
 ### “#”的数目越多，标题级数就越高。级别越高的标题越小。
 我们建议您**不使用**一级标题，从二级标题开始编辑。
 
