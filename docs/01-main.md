@@ -42,7 +42,9 @@ title: 首页
 
 ## 常用格式
 **加粗** | *斜体* | ~~删除线~~ | ```代码``` | <u>下划线</u> | <small>小号字体</small> | <big>大号字体</big> | <!--只有编辑者看得见的注释-->  
-注：后几个例子使用了html
+注：后几个例子使用了 Html  
+在 Docusaurus 中，你可以在 Markdown 文件中使用属于 Html 的标签！不过，如果没有特殊情况，仍然推荐您使用 Markdown 语法。  
+另外，在 Docusaurus 中，有许多额外的特性，您可以在[此处](https://docusaurus.io/zh-CN/docs/markdown-features)查看相关信息。
 
 - 首级列表
   - 二级列表
