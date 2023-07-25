@@ -3,7 +3,7 @@ title: 首页
 ---
 
 ## 欢迎
-欢迎上手卡巴拉文档站。请您保存您的域名：```kabala-wiki.vercel.app```
+欢迎上手卡巴拉文档站。请您保存您的域名：```kabala.zeroasso.top```
 
 在任何事情之前，我们需要您提供：
 - 白天模式和黑暗模式背景图，各一张
@@ -15,7 +15,8 @@ title: 首页
 
 要编辑文档站，您需要：
 - 拥有一个GitHub账号
-- 联系[KabalaLCB组织](https://github.com/KabalaLCB)的管理员，将您邀请至组织中，您便能获得[文档站](https://github.com/KabalaLCB/Kabala_Wiki)的读写权限。
+- 联系我们将您邀请至协同编辑，您便能获得[文档站](https://github.com/ZengXiaoPi/Kabala_Wiki)的读写权限。  
+需要您请向我们列出您希望被邀请的人的GitHub用户名。
 - 使用Markdown语法进行编辑。请参阅[Markdown入门](https://markdown.com.cn/intro.html)。
   - 请记住，Markdown在很多地方的逻辑和Word文档等其他文字编辑器不同。
 - 我将在此处粗略叙述一些Markdown语法的使用方法。请您**至GitHub阅读源代码，同时比对网页上的最终效果**以理解这些语法。
@@ -67,7 +68,7 @@ title: 首页
 ```[链接文本](网址链接)```  
 可以是内部，也可以是外部链接。总之是个链接就行
 
-[Wiki首页](https://kabala-wiki.vercel.app)
+[Wiki首页](https://kabala.zeroasso.top)
 
 ## 图片
 ```![image](图片地址或链接)```  
