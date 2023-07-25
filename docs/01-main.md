@@ -67,7 +67,7 @@ title: 首页
 ```[链接文本](网址链接)```  
 可以是内部，也可以是外部链接。总之是个链接就行
 
-[Wiki首页](kabala-wiki.vercel.app)
+[Wiki首页](https://kabala-wiki.vercel.app)
 
 ## 图片
 ```![image](图片地址或链接)```  
