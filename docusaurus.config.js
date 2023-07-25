@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Kabala',
-  tagline: '卡巴拉',
+  tagline: '卡巴拉文档站',
   url: 'https://kabala.zeroasso.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
