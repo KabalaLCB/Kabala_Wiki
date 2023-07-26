@@ -1,12 +1,12 @@
 {
-    "position": 30,
-    "label": "边狱前线-二创组",
+    "position": 25,
+    "label": "考据组",
     "collapsible": true,
     "collapsed": false,
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "边狱前线-二创组"
+      "title": "考据组"
     },
     "customProps": {
       "description": "This description can be used in the swizzled DocCard"
